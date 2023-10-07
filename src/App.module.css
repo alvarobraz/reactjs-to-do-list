@@ -1,10 +1,36 @@
 .main {
   max-width: 46rem;
   margin: 0 auto;
-  /* padding: 0 1rem; */
-
   display: block;
   flex-direction: columns;
-  /* gap: 2rem; */
   align-items: center;
+}
+
+.empty {
+  width: 46rem;
+  height: 15.25rem;
+  display: block;
+  flex-direction: columns;
+  padding: 1rem;
+  text-align: center;
+  align-content: center;
+  align-items: center;
+}
+
+.empty img {
+  margin-top: 3rem
+}
+
+.empty p {
+  color: var(--gray-300);
+
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.empty p:nth-child(3) {
+  color: var(--gray-300);
+
+  font-weight: regular;
+  font-size: 14px;
 }

@@ -8,6 +8,8 @@
   gap: 0.5rem;
 
   margin-top: calc(0px - 1.4rem - 6px);
+
+  
 }
 
 .contentForm textarea {
@@ -22,6 +24,25 @@
   line-height: 1.4;
   /* margin-top: 1rem; */
   overflow-y: hidden;
+}
+
+@media (max-width: 768px) {
+  .contentForm {
+    width: 46rem;
+    height: 3.375rem;
+    background: transparent;
+    display: block;
+    flex-direction: columns;
+    justify-content: space-between;
+    gap: 0.5rem;
+  
+    margin-top: calc(0px - 1.4rem - 6px);
+  
+  }
+
+  .contentForm textarea {
+    border-radius: 0rem;
+  }
 }
 
 @supports selector(:focus-visible) {
@@ -55,6 +76,8 @@
 
   border: none;
   border-radius: 8px;
+
+  cursor: pointer;
 
   transition: color 0.1s, background-color 0.1s;
 }

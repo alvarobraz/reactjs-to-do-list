@@ -63,10 +63,11 @@
   transform: scale(1);
 }
 
-/* .contentTodoList .leftContent input[type="radio"]:focus {
-  outline: max(2px, 0.15em) solid currentColor;
-  outline-offset: max(2px, 0.15em);
-} */
+.through {
+  text-decoration: line-through;
+}
+
+
 
 .contentTodoList .rigthContent {
   display: flex;

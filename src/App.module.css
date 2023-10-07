@@ -1,0 +1,10 @@
+.main {
+  max-width: 46rem;
+  margin: 0 auto;
+  /* padding: 0 1rem; */
+
+  display: block;
+  flex-direction: columns;
+  /* gap: 2rem; */
+  align-items: center;
+}

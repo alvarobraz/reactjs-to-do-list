@@ -1,0 +1,41 @@
+.contentCounts {
+  width: 46rem;
+  height: 1.1875rem;
+  background: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+ 
+  margin: 4rem 0 1.5rem;
+  
+}
+
+.contentCounts div p {
+  color: var(--blue);
+
+  font-weight: bold;
+  font-size: 14px;
+
+}
+
+.contentCounts div:nth-child(2) p {
+  color: var(--blue-dark);
+
+  font-weight: bold;
+  font-size: 14px;
+
+}
+
+
+.contentCounts p span {
+  border-radius: 999rem;
+  padding: 0.2rem 0.5rem;
+  background: var(--gray-400);
+
+  color: var(--gray-200);
+
+  font-weight: bold;
+  font-size: 12px;
+
+  margin-left: 0.5rem;
+}

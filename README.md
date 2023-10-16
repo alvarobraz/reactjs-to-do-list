@@ -4,7 +4,7 @@
   <br>
   <br>
 
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/reactjs-to-do-list"/>
+  <img alt="Language count" src="https://img.shields.io/github/repo-size/alvarobraz/reactjs-to-do-list"/>
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
@@ -14,11 +14,11 @@
     <img alt="Made by alvarobraz" src="https://img.shields.io/badge/made%20by-alvarobraz-%237519C1">
   </a>
 
-  <a href="https://github.com/reactjs-to-do-list/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/reactjs-to-do-list">
+  <a href="https://github.com/alvarobraz/reactjs-to-do-list/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/alvarobraz/reactjs-to-do-list">
   </a>
 
-  <img alt="License" src="https://img.shields.io/github/license/reactjs-to-do-list">
+  <img alt="License" src="https://img.shields.io/github/license/alvarobraz/reactjs-to-do-list">
 </p>
 
 ---
@@ -90,10 +90,10 @@ As seguintes tecnologias foram utilizadas no projeto:
 
 ```bash
 # Clone this project
-$ git clone https://github.com/reactjs-to-do-list
+$ git clone https://github.com/alvarobraz/reactjs-to-do-list
 
 # Access
-$ cd reactjs-to-do-list
+$ cd alvarobraz/reactjs-to-do-list
 
 # Install dependencies
 $ yarn install
